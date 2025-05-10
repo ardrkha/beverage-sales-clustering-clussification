@@ -10,17 +10,17 @@ The dataset used is a dataset from Kaggle with the following link:
 https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
 
 The dataset includes the following features:
-- Order_ID Unique identifier for each order. Groups multiple products within the same order.
-- Customer_ID Unique identifier for each customer, distinguishing individual buyers.
-- Customer_Type Indicates whether the customer is B2B (business-to-business) or B2C (business-to-consumer).
-- Product The name of the product purchased, such as "Coca-Cola" or "Erdinger Weißbier".
-- Category The product category, such as "Soft Drinks" or "Alcoholic Beverages".
-- Unit_Price The price per unit of the product.
-- Quantity The number of units purchased for the specified product in the order.
-- Discount The discount applied to the product (e.g., 0.1 for 10%). Discounts are only given to B2B customers.
-- Total_Price The total price for the product after applying discounts.
-- RegionThe region of the customer, such as "Bayern" or "Berlin".
-- Order_Date The date when the order was placed.
+- Order_ID : Unique identifier for each order. Groups multiple products within the same order.
+- Customer_ID : Unique identifier for each customer, distinguishing individual buyers.
+- Customer_Type : Indicates whether the customer is B2B (business-to-business) or B2C (business-to-consumer).
+- Product : The name of the product purchased, such as "Coca-Cola" or "Erdinger Weißbier".
+- Category : The product category, such as "Soft Drinks" or "Alcoholic Beverages".
+- Unit_Price : The price per unit of the product.
+- Quantity : The number of units purchased for the specified product in the order.
+- Discount : The discount applied to the product (e.g., 0.1 for 10%). Discounts are only given to B2B customers.
+- Total_Price : The total price for the product after applying discounts.
+- Region: The region of the customer, such as "Bayern" or "Berlin".
+- Order_Date : The date when the order was placed.
 ## Usage
 
 1. Clone the repository
