@@ -46,6 +46,6 @@ beverage-sales-clustering-classification/
 All dependencies are listed in environment.yml. Ensure you install them using Conda.
 ## Contact
 
-f you have any questions, feel free to reach out to us at hardatama27@gmail.com.
+If you have any questions, feel free to reach out to us at hardatama27@gmail.com.
 
 Developed by Hardatama Rakha Ugraha - 2024
